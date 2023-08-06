@@ -3,7 +3,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onionj98@gmail.com)
+    <a href="https://www.youtube.com/c/amirhossein" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="amirhossein" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
