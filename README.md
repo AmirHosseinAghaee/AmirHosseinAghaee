@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onionj98@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhosseinaghaee22@gmail.com)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
