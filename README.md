@@ -3,8 +3,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.youtube.com/c/amirhossein" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="amirhossein" />
+    <a href="mailto:amirhosseinaghaee22@gmail.com" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:amirhosseinaghaee22@gmail.com" />
     </a>
 </p>
 
